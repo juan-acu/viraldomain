@@ -15,9 +15,11 @@ LazyData: true
 Imports: 
     applicable,
     dplyr,
+    earth,
     kknn,
     magrittr,
     parsnip,
+    ranger,
     recipes,
     stats,
     tidyselect,
